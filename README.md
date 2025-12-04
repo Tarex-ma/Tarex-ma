@@ -1,7 +1,9 @@
-# Hi there 👋, I'm Tariku
+<h1 align="center">👋 Hello, I'm Tariku!</h1>
+<h3 align="center">A passionate Software Engineering student from Jimma | Python & Django enthusiast</h3>
 
-### 🚀 Aspiring Software Engineer  
-Passionate about building impactful projects using **Python**, **Django**, and modern web technologies. Always learning, improving, and creating.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+amazing+projects+together!" alt="Typing SVG" />
+</p>
 
 ---
 
