@@ -38,7 +38,8 @@
   [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
   [![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)](https://www.djangoproject.com/)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariku-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariku-blue?logo=linkedin)](https://www.linkedin.com/in/tarikumato)
 </p>
 
 ---
@@ -52,19 +53,21 @@
 
 ---
 
+<!-- ====================== FEATURED PROJECTS ====================== -->
 ## 📌 Featured Projects
 
 ### 🔹 Mobile-Based Tour Guide System  
 A project developed for Jimma University Institute of Technology.  
-Tech: Django, Python, JavaScript
+**Tech:** Django, Python, JavaScript
 
 ### 🔹 Bank Management System  
 Built for Siinqee Bank to manage customer accounts and transactions.  
-Tech: Python, SQL
+**Tech:** Python, SQL
 
 ### 🔹 To-Do List App (CLI)  
 A simple task manager with status tracking.  
-Tech: Python
+**Tech:** Python
 
 ---
+
 ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
