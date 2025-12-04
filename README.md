@@ -35,14 +35,15 @@
 <!-- ====================== BADGES & SKILLS ====================== -->
 ## 🏆 Badges & Skills
 <p align="center">
-  [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
-  [![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)](https://www.djangoproject.com/)
-  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariku-blue?logo=linkedin)](https://www.linkedin.com/in/tarikumato)
-</p>
+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
+</p>
 
 <!-- ====================== CONTACT ====================== -->
 ## 📫 Connect with Me
@@ -51,7 +52,7 @@
   [![Email](https://img.shields.io/badge/Email-Tariku-red?logo=gmail&logoColor=white)](mailto:tarikumato@gmail.com)
 </p>
 
----
+
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## 📌 Featured Projects
