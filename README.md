@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Tariku
 
-<!--
-**Tarex-ma/Tarex-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer  
+Passionate about building impactful projects using **Python**, **Django**, and modern web technologies. Always learning, improving, and creating.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks:** Django, React  
+- **Tools:** Git, GitHub
+- **Databases:** MySQL 
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Mobile-Based Tour Guide System  
+A project developed for Jimma University Institute of Technology.  
+Tech: Django, Python, JavaScript
+
+### 🔹 Bank Management System  
+Built for Siinqee Bank to manage customer accounts and transactions.  
+Tech: Python, SQL
+
+### 🔹 To-Do List App (CLI)  
+A simple task manager with status tracking.  
+Tech: Python
+
+---
+
+## 📊 GitHub Stats
+![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarex_ke10&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- Email: tarikumato@gmail.com 
+- LinkedIn: https://linkedin.com/in/Tariku Mato
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
