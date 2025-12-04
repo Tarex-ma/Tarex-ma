@@ -39,13 +39,20 @@ Tech: Python
 ---
 
 ## 📊 GitHub Stats
-![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarex_ke10&show_icons=true&theme=tokyonight)
+
+![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarex-ma&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarex-ma&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Contact Me
 - Email: tarikumato@gmail.com 
-- LinkedIn: https://linkedin.com/in/Tariku Mato
+- LinkedIn: https://linkedin.com/in/TarikuMato
 
 ---
 
