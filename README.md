@@ -10,9 +10,9 @@
 
 <!-- ====================== ABOUT ME ====================== -->
 ## 💻 About Me
-- 🔭 I’m currently working on Python and Django projects.
-- 🌱 I’m learning Fullstack Web Development and exploring AI/ML.
-- 👯 I’m looking to collaborate on open-source projects.
+- 🔭 Currently working on Python and Django projects.
+- 🌱 Learning Fullstack Web Development and exploring AI/ML.
+- 👯 Looking to collaborate on open-source projects.
 - 💬 Ask me about Python, Django, and GitHub best practices.
 - ⚡ Fun fact: I love designing user-friendly apps and interfaces.
 
