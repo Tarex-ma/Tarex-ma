@@ -1,3 +1,4 @@
+<!-- ====================== HEADER ====================== -->
 <h1 align="center">👋 Hello, I'm Tariku!</h1>
 <h3 align="center">A passionate Software Engineering student from Jimma | Python & Django enthusiast</h3>
 
@@ -7,20 +8,47 @@
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, Java, JavaScript, SQL  
-- **Frameworks:** Django, React  
-- **Tools:** Git, GitHub
-- **Databases:** MySQL
-- ## 🏅 Badges
+<!-- ====================== ABOUT ME ====================== -->
+## 💻 About Me
+- 🔭 I’m currently working on Python and Django projects.
+- 🌱 I’m learning Fullstack Web Development and exploring AI/ML.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Python, Django, and GitHub best practices.
+- ⚡ Fun fact: I love designing user-friendly apps and interfaces.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+---
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarex-ma&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarex-ma&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarex-ma&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- ====================== BADGES & SKILLS ====================== -->
+## 🏆 Badges & Skills
+<p align="center">
+  [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
+  [![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)](https://www.djangoproject.com/)
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariku-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+</p>
+
+---
+
+<!-- ====================== CONTACT ====================== -->
+## 📫 Connect with Me
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariku-blue?logo=linkedin)](https://www.linkedin.com/in/tarikumato)
+  [![Email](https://img.shields.io/badge/Email-Tariku-red?logo=gmail&logoColor=white)](mailto:tarikumato@gmail.com)
+</p>
 
 ---
 
@@ -39,23 +67,4 @@ A simple task manager with status tracking.
 Tech: Python
 
 ---
-
-## 📊 GitHub Stats
-
-![Tariku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarex-ma&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarex-ma&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contact Me
-- Email: tarikumato@gmail.com 
-- LinkedIn: https://linkedin.com/in/TarikuMato
-
----
-
 ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
